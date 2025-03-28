@@ -1,6 +1,8 @@
 # IoT-SmartContract
 Tutorial and reference design for **smart contracts** on **IoT embedded systems**. The materials include PDF lessons with code explanations and corresponding code examples. You can find the PDF lessons [here](https://kachris.github.io/IoT-SmartContract.github.io/).
 
+You can also watch the tutorial that describes all the steps in the following video <a href="https://www.youtube.com/watch?v=TH6A3HtAlF4" target="_blank">Smart contract for embedded systems and IoTs.
+
 ## Repository Structure
 
 IoT Smart Contract <br>
